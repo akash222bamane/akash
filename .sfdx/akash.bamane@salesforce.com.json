@@ -1,0 +1,11 @@
+{
+  "username": "akash.bamane@salesforce.com",
+  "accessToken": "e6be044f1822d37a802bd3d21bc09e64175b2528c8b291750e3f495e31d1494c4e296c42014fcf964c56651c041d2bc65955026e054b1dff864376ccee63ad542107b04c0b47b89b561ec4048d01554bb36b851044f9345805e6f2abc7cee5cc38f0c47f21599b489f2c54831437719f3ca2f0ec2516:ab5f09d8cd30c869144035f4546737ce",
+  "instanceUrl": "https://bamaneakash-dev-ed.my.salesforce.com",
+  "orgId": "00D2w000000kWPvEAM",
+  "loginUrl": "https://login.salesforce.com",
+  "refreshToken": "9179f3c57dd2a17dc6be6501349bc70f0e0cab4d581e3eff88e5d3df8d45a5c8ec869ab1d4079ece05610c3eded81217022d3157d8ffcbcade0b3ad32257249ff95c800be089698c40050d2dd1649b8c076457ba96e75ae35f2541b2aa:4a363c687e2a515d6ff4c68a038958f6",
+  "clientId": "PlatformCLI",
+  "instanceApiVersion": "54.0",
+  "instanceApiVersionLastRetrieved": "9/4/2022, 5:09:32 pm"
+}
